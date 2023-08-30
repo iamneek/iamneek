@@ -1,3 +1,6 @@
+<h2><img src="https://github.com/Amr097/Amr097/assets/127849429/87c13471-acc3-4b5d-a181-3baa1a4f0539" width="37"> &nbsp; Hey! Nice to see you. </h2>
+
+
 # 💫 About Me:
 I'm **Neek**. I am currently learning **MERN**<br>stack and developing different apps and web apps.
 <p align="center">
