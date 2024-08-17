@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm **Neek**. I am currently learning **MERN**<br>stack and developing different apps and web apps.
+I'm **Neek**. I am currently exploring **Different Tech Stacks**<br> and developing different apps and web apps.
 <p align="center">
   <img src="https://i.imgur.com/y3JanuP.png" width="300px" height="300">
 </p>
