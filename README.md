@@ -1,9 +1,9 @@
 
 
 # 💫 About Me:
-I'm **Neek**. I am currently learning **Java**.
+I'm **Neek**. I am currently learning **Java** and **Computer Architecture**.
 <p align="center">
-  <img src="https://i.imgur.com/y3JanuP.png" width="300px" height="300">
+  <img src="https://i.imgur.com/0xlU479.png" width="300px" height="300">
 </p>
 <p align="center">
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
