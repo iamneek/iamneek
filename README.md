@@ -52,8 +52,11 @@
 </div>
 <br>
 
-<h3>✍️ Random Dev Quote<h2>
+--
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
+  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/> -->
+  <img src="https://readme-jokes.vercel.app/api?theme=material-palenight&bgColor=%23151515&borderColor=%23FFF&qColor=%23FFF&aColor=%23DDD&textColor=%23FFF" alt="Jokes Card" height="150"/>
 </div>
+
 <br>
