@@ -45,16 +45,16 @@
 </div>
 <br>
 
-<!-- <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamneek&theme=dark&card_height=150" alt="GitHub Streak" />  
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamneek&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
-<br> -->
+<br>
+
 
 
 <div align="center">
-  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/> -->
-  <img src="https://readme-jokes.vercel.app/api?theme=material-palenight&bgColor=%23151515&borderColor=%23FFF&qColor=%23FFF&aColor=%23DDD&textColor=%23FFF" alt="Jokes Card" height="150"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+  <!-- <img src="https://readme-jokes.vercel.app/api?theme=github_dark&bgColor=%23151515&borderColor=%23FFF&qColor=%23FFF&aColor=%23DDD&textColor=%23FFF" alt="Jokes Card" height="150"/> -->
 </div>
 
 <br>
