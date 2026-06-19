@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is <strong>Neek</strong>.</h2>
-
+<h2 align="center">Hi 👋! I am Neek.</h2>
+<!--
 <p align="center">
   <img src="https://i.imgur.com/0xlU479.png" width="300px" height="300">
 </p>
@@ -8,22 +8,23 @@
 </p>
 <h2 align="center"><u>Neek</u>
 <br>
-<br>
+<br> 
+-->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  /> -->
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  /> -->
+  <!-- <img width="12" /> -->
   <!-- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  /> -->
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <!-- <img width="12" /> -->
+  <!-- <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  /> -->
 
 </div>
 <br>
 
 
-<h3>🌐 Socials<h2>
+<!-- <h3>🌐 Socials<h2> -->
 <div align="center">
   <a href="https://www.instagram.com/theonly.neek_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -37,7 +38,7 @@
 </div>
 <br>
   
-<h3>📊 GitHub Stats<h2>
+<!-- <h3>📊 GitHub Stats<h2> -->
 
 
 <div align="center">
