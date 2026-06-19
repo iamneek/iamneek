@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Neek.</h2>
+<h3 align="center">Hi 👋! I am Neek.</h3>
 <!--
 <p align="center">
   <img src="https://i.imgur.com/0xlU479.png" width="300px" height="300">
@@ -40,21 +40,20 @@
   
 <!-- <h3>📊 GitHub Stats<h2> -->
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamneek&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</div>
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamneek/iamneek/output/snake.svg" alt="Snake animation" />
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamneek&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-</div>
-<br>
-
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/> -->
   <!-- <img src="https://readme-jokes.vercel.app/api?theme=github_dark&bgColor=%23151515&borderColor=%23FFF&qColor=%23FFF&aColor=%23DDD&textColor=%23FFF" alt="Jokes Card" height="150"/> -->
 </div>
 
