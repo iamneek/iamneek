@@ -58,3 +58,12 @@
 </div>
 
 <br>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/cza3je77n3pqfj3x96ohc1g0?theme=dark&v=df137376ce10">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/cza3je77n3pqfj3x96ohc1g0?theme=light&v=df137376ce10">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/cza3je77n3pqfj3x96ohc1g0?theme=dark&v=df137376ce10">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
