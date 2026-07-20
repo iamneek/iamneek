@@ -11,6 +11,15 @@
 <br> 
 -->
 
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-light.svg?v=1784531407543">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
+
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  /> -->
   <!-- <img width="12" /> -->
@@ -58,12 +67,3 @@
 </div>
 
 <br>
-
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-light.svg?v=1784531407543">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
