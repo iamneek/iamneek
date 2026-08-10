@@ -1,4 +1,4 @@
-<!-- <h3 align="center">Hi 👋! I am Neek.</h3> -->
+<h3 align="center">Hi 👋! I am Neek.</h3>
 <!--
 <p align="center">
   <img src="https://i.imgur.com/0xlU479.png" width="300px" height="300">
@@ -29,10 +29,16 @@
   <!-- <img width="12" /> -->
   <!-- <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  /> -->
 
+<!-- </div> -->
+<!-- <br> -->
+<div align="center">
+  <img width="200" height="200" alt="-9gi0E55" src="https://github.com/user-attachments/assets/a4e37f5c-55f9-4e36-baf3-5853535aa63c" />
+  <br>
+  ⇑ you can scan this
+  <br>
+  - or -
 </div>
-<br>
-
-
+  <br>
 <!-- <h3>🌐 Socials<h2> -->
 <div align="center">
 
@@ -50,7 +56,8 @@
   </a>
 </div>
 <!-- <br> -->
-  
+
+
 <!-- <h3>📊 GitHub Stats<h2> -->
 
 <!-- <div align="center">
