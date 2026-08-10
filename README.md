@@ -13,11 +13,11 @@
 
 
 <!-- GITHUBWALLPAPER:START -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
   <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-light.svg?v=1784531407543">
   <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/cza3je77n3pqfj3x96ohc1g0-dark.svg?v=1784531407543">
-</picture>
+</picture> -->
 <!-- GITHUBWALLPAPER:END -->
 
 <div align="center">
@@ -49,11 +49,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=lucid&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br>
+<!-- <br> -->
   
 <!-- <h3>📊 GitHub Stats<h2> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=iamneek&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
@@ -61,12 +61,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/iamneek/iamneek/output/snake.svg" alt="Snake animation" />
 </div>
-<br>
+<br> -->
 
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/> -->
   <!-- <img src="https://readme-jokes.vercel.app/api?theme=github_dark&bgColor=%23151515&borderColor=%23FFF&qColor=%23FFF&aColor=%23DDD&textColor=%23FFF" alt="Jokes Card" height="150"/> -->
-</div>
+<!-- </div> -->
 
-<br>
+<!-- <br> -->
